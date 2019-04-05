@@ -1,7 +1,27 @@
 body {
 	width: 100%;
 	max-width: 1024px;
-	margin: 0 auto;
-	background-color: #999;
+	margin-top: 100px;
+  	margin-bottom: 100px;
+  	margin-right: 150px;
+  	margin-left: 80px;
+	background-color: Fuchsia;
 	font-size: 62.5%;
 }
+img {
+	width: 100%;
+	max-width: 100%;
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	border:20px solid #ffff00;
+}
+h1.large {
+	font-size: 500%;
+	color: green;
+}
+#title {
+  background-color: yellow;
+  font-size: 200%;
+{
